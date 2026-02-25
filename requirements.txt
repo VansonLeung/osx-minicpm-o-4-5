@@ -1,0 +1,13 @@
+mlx-vlm
+torch
+transformers
+Pillow
+soundfile
+minicpmo-utils[all]
+librosa
+mss
+sounddevice
+fastapi
+uvicorn
+onnx
+decord2
